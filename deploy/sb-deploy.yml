@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: spring
-          image: kjk04021/sbimage: 1
+          image: kjk04021/sbimage:1
