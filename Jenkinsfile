@@ -6,10 +6,10 @@ pipeline {
     // 플러그인 설치후 글로벌 설정에서 만든 빌드명.
   }
   environment {
-    gitName = 'pcmin929'
-    gitEmail = 'pcmin929@gmail.com'
+    gitName = 'j2woo'
+    gitEmail = 'kjk04021@naver.com'
     githubCredential = 'git_cre'
-    dockerHubRegistry = 'oolralra/sbimage'
+    dockerHubRegistry = 'kjk04021/sbimage'
     dockerHubRegistryCredential = 'docker_cre'
   }
   stages {
